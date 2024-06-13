@@ -3,7 +3,7 @@ import {Router} from 'express';
 
 
 
-import Usecontroller from './app/models/controller/Use.controller';
+import Usecontroller from './app/controller/user.controller';
 
 
 const routes = new Router()
